@@ -1,7 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning C++
 
-📫 How to reach me:chiragranpise48@gmail.com 
+📫 How to reach me: chiragranpise48@gmail.com 
+
 
 <!--
 **chiragdranpise/chiragdranpise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
