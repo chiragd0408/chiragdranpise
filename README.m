@@ -1,4 +1,4 @@
-###                                                         Hi 👋, I'm Chirag
+###                                                          Hi 👋, I'm Chirag
 🌱 I’m currently learning C++
 
 📫 How to reach me: chiragranpise48@gmail.com 
